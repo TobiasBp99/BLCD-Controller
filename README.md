@@ -26,15 +26,13 @@ Every images from oscilloscope follow the same color logic associated to phase o
 <p>
 </p>
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+- ![#f03c15](https://placehold.co/15x15/ffff00/ffff00.png) `Phase/Hall A`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Phase/Hall B`
+- ![#1589F0](https://placehold.co/15x15/f03c15/f03c15.png) `Phase/Hall B`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Internal signal generated for each hall pulse `
 
-$${\color{yellow}Phase/Hall A} \break
-{\color{cyan}Phase/Hall B} \enter
-{\color{orange}Phase/Hall C} \enter
-{\color{green}Internal \space signal \space generated \space after \space a \space hall \space sequence}$$
-
+<p>
+</p>
 
 Internal signal should be used as debugging because of engine had 31 poles, so with that signal was easier to understand the sequence.
 
