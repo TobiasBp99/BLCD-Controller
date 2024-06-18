@@ -4,7 +4,8 @@ BLCD Controller developed as the final project of the course **_Electrónica de 
   
 </p>
 Watch it working 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RzlKXHOah-g/0.jpg)](https://www.youtube.com/watch?v=RzlKXHOah-g)
+
+[![BLCD](https://img.youtube.com/vi/RzlKXHOah-g/0.jpg)](https://www.youtube.com/watch?v=RzlKXHOah-g)
 
 
 ## Tools 🛠️
