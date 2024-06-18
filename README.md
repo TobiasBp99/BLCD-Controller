@@ -25,10 +25,11 @@ This project was implemented with
 Every images from oscilloscope follow the same color logic associated to phase or hall input.
 <p>
 </p>
-- ![#ffff00](https://placehold.co/15x15/ffff00/ffff00.png) `Phase/Hall A`
-- ![#00aae4](https://placehold.co/15x15/00aae4/00aae4.png) `Phase/Hall B`
-- ![#ffa500](https://placehold.co/15x15/ffa500/ffa500.png) `Phase/Hall C`
-- ![#008f39](https://placehold.co/15x15/008f39/008f39.png) `Internal signal generated after a hall sequence`
+
+$${\color{yellow}Phase/Hall A}$$
+$${\color{cyan}Phase/Hall B}$$
+$${\color{orange}Phase/Hall C}$$
+$${\color{green}Internal signal generated after a hall sequence}$$
 
 Internal signal should be used as debugging because of engine had 31 poles, so with that signal was easier to understand the sequence.
 
