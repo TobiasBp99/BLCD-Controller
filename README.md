@@ -26,14 +26,11 @@ Every images from oscilloscope follow the same color logic associated to phase o
 <p>
 </p>
 
-$${\color{yellow}Phase/Hall A}$$ <p>
-</p>
-$${\color{cyan}Phase/Hall B}$$ <p>
-</p>
-$${\color{orange}Phase/Hall C}$$<p>
-</p>
-$${\color{green}Internal signal generated after a hall sequence}$$<p>
-</p>
+$${\color{yellow}Phase/Hall A}$$ 
+$${\color{cyan}Phase/Hall B}$$
+$${\color{orange}Phase/Hall C}$$
+$${\color{green}Internal signal generated after a hall sequence}$$
+
 
 Internal signal should be used as debugging because of engine had 31 poles, so with that signal was easier to understand the sequence.
 
