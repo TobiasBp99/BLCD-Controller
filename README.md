@@ -2,7 +2,7 @@
 BLCD Controller developed as the final project of the course **_Electrónica de Potencia_** at **_UTN FRBA_**.
 Watch it working 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/RzlKXHOah-g?si=5odeuKwC8RJP3CgA))
+[![Watch the video](https://img.youtube.com/viRzlKXHOah-g?si=5odeuKwC8RJP3CgA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/RzlKXHOah-g?si=5odeuKwC8RJP3CgA))
 
 ## Tools 🛠️
 This project was implemented with
