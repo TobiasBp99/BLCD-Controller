@@ -26,8 +26,12 @@ Every images from oscilloscope follow the same color logic associated to phase o
 <p>
 </p>
 
-$${\color{yellow}Phase/Hall A} $$
-$${\color{cyan}Phase/Hall B} $$
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
+$${\color{yellow}Phase/Hall A} \break
+{\color{cyan}Phase/Hall B} \enter
 {\color{orange}Phase/Hall C} \enter
 {\color{green}Internal \space signal \space generated \space after \space a \space hall \space sequence}$$
 
